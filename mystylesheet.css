@@ -1,0 +1,23 @@
+img{
+  height:150px;
+  border-radius:2%;
+}
+body{
+  background-color:#4b8fc6;
+}
+#headers{
+  text-align:center;
+  color:#db87cd;
+}
+#imgsection{
+  text-align:left;
+}
+
+.bodytext{
+  color:#224968;
+  font-style:italic;
+}
+
+.bodytext.important{
+  color:red;
+}
